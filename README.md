@@ -8,4 +8,4 @@ Experimental results indicate that, the proposed algorithm is highly competitive
 
 
 # How to Run
-To reproduce our experiment, you can run the solve_demo.m for the different folders. Enjoy this time!
+To reproduce our experiment, you can run the **solve_demo.m** for the different folders. Enjoy this time!
